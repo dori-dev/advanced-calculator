@@ -55,5 +55,13 @@ python3 main.py
 
 # How To Use
 
-The UI of this calculator is simplicity but you can use this video.
+The UI of this calculator is simplicity, but you can use this video.
 [Use Guide Video](https://raw.githubusercontent.com/dori-dev/demo-calculator/main/guide.mkv)
+
+#
+
+## Links
+
+Download Source Code: [Click Here](https://github.com/dori-dev/advanced-calculator/archive/refs/heads/main.zip)
+
+My Github Acount: [Click Here](https://github.com/dori-dev/)
