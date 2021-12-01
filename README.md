@@ -7,4 +7,4 @@ Advanced GUI Calculator with Beautiful UI and Clear Code.
 ![demo](demo.png)
 
 
-[how to use](https://github.com/dori-dev/demo-calculator/blob/main/demo.mkv?raw=true)
+[how to use](https://raw.githubusercontent.com/dori-dev/demo-calculator/main/guide.mkv)
