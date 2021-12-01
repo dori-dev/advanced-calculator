@@ -10,7 +10,7 @@ Advanced GUI Calculator with Beautiful UI and Clear Code.
 
 #
 
-# Installation Guide
+# Install PyQt5
 
 ## Windows
 
