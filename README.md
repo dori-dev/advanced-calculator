@@ -51,4 +51,9 @@ Run Python File.
 python3 main.py
 ```
 
-[how to use](https://raw.githubusercontent.com/dori-dev/demo-calculator/main/guide.mkv)
+#
+
+# How To Use
+
+The UI of this calculator is simplicity but you can use this video.
+[Use Guide Video](https://raw.githubusercontent.com/dori-dev/demo-calculator/main/guide.mkv)
